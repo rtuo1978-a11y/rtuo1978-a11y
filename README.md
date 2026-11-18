@@ -42,6 +42,14 @@ Je suis passionnée par la résolution des problèmes sociaux : je crois que la 
 | **Gestion de restaurant** | Un SaaS pour gérer un restaurant, en ligne | Django, PythonAnywhere |
 | **Système d'information d'usine** | Gestion d'usine, en sprints Scrum | Django, YouTrack |
 | [**Apotheosis ACE**](https://github.com/rtuo1978-a11y/acevent) | Organiser le banquet d'une église : tables, menu, choix des plats | Django, React, Django REST |
+| **SmartMetter** | Conception d'un système de compteurs électriques intelligents pour la CIE : paiement en ligne, validation par IA, remise en service par IoT | React, Node.js, IoT, MQTT |
+
+<p align="center">
+  <img src="https://rtuo1978-a11y.github.io/PortfolioRose/assets/img/projets/fm-carte.jpg" height="300" alt="FlowManage : carte des zones à risque">
+  <img src="https://rtuo1978-a11y.github.io/PortfolioRose/assets/img/projets/fm-alertes.jpg" height="300" alt="FlowManage : alertes">
+  <img src="https://rtuo1978-a11y.github.io/PortfolioRose/assets/img/projets/ace-choix-plat.jpg" height="300" alt="Apotheosis ACE : choix du plat">
+</p>
+<p align="center"><sub>FlowManage et Apotheosis ACE en images. Toutes les captures sont sur <a href="https://rtuo1978-a11y.github.io/PortfolioRose/#projets">mon portfolio</a>.</sub></p>
 
 ### Ma boîte à outils
 
