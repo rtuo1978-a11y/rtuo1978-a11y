@@ -37,12 +37,12 @@ Je suis passionnée par la résolution des problèmes sociaux : je crois que la 
 | Projet | Ce que ça fait | Avec |
 | --- | --- | --- |
 | [**FlowManage**](https://github.com/rtuo1978-a11y/Floodge) | Prévenir et gérer les risques d'inondation : alertes, carte des zones à risque, IA | React Native, NestJS, Supabase, Prisma, Google Maps |
-| [**N'Zassa**](https://www.figma.com/make/BUqF3tiDwNeOw56paAaRV4/Cultural-Connection-Website) | Apprendre et conserver la culture ivoirienne (Prix Technovore 2026) | Figma, web |
-| **X-Market** | Suivre l'urbanisation et organiser les commerces au bord des routes | Mobile |
-| **Gestion de restaurant** | Un SaaS pour gérer un restaurant, en ligne | Django, PythonAnywhere |
-| **Système d'information d'usine** | Gestion d'usine, en sprints Scrum | Django, YouTrack |
+| [**N'Zassa**](https://github.com/rtuo1978-a11y/N-zassa) | Apprendre et conserver la culture ivoirienne (Prix Technovore 2026) | Figma, web |
+| [**X-Market**](https://github.com/rtuo1978-a11y/XMarket) | Suivre l'urbanisation et organiser les commerces au bord des routes | Mobile |
+| [**Gestion de restaurant**](https://github.com/rtuo1978-a11y/Gestion_Restaurant) | Un SaaS pour gérer un restaurant, en ligne | Django, PythonAnywhere |
+| [**Système d'information d'usine**](https://github.com/rtuo1978-a11y/Syst-meUsine) | Gestion d'usine, en sprints Scrum | Django, YouTrack |
 | [**Apotheosis ACE**](https://github.com/rtuo1978-a11y/acevent) | Organiser le banquet d'une église : tables, menu, choix des plats | Django, React, Django REST |
-| **SmartMetter** | Conception d'un système de compteurs électriques intelligents pour la CIE : paiement en ligne, validation par IA, remise en service par IoT | React, Node.js, IoT, MQTT |
+| [**SmartMetter**](https://github.com/rtuo1978-a11y/Smartmetter) | Conception d'un système de compteurs électriques intelligents pour la CIE : paiement en ligne, validation par IA, remise en service par IoT | React, Node.js, IoT, MQTT |
 
 <p align="center">
   <img src="https://rtuo1978-a11y.github.io/PortfolioRose/assets/img/projets/fm-carte.jpg" height="300" alt="FlowManage : carte des zones à risque">
