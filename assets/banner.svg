@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Goyéli Rose Tuo, développeuse d'applications web et mobile">
+  <style>
+    .t{font-family:'Segoe UI','Helvetica Neue',Arial,sans-serif}
+    .stitch{fill:none;stroke-width:2.5;stroke-dasharray:9 7;animation:sew 6s linear infinite}
+    @keyframes sew{to{stroke-dashoffset:-160}}
+    .twinkle{animation:tw 3s ease-in-out infinite;transform-origin:1112px 64px}
+    @keyframes tw{0%,100%{transform:scale(1) rotate(0)}50%{transform:scale(1.18) rotate(18deg)}}
+    @media (prefers-reduced-motion:reduce){.stitch,.twinkle{animation:none}}
+  </style>
+  <defs>
+    <pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse"><circle cx="8" cy="8" r="1.6" fill="#F4A6C6" opacity=".35"/></pattern>
+    <pattern id="checks" width="28" height="28" patternUnits="userSpaceOnUse"><rect width="28" height="28" fill="#FFFFFF"/><rect width="14" height="28" fill="#E2558F" opacity=".16"/><rect width="28" height="14" fill="#E2558F" opacity=".16"/></pattern>
+    <clipPath id="r"><rect width="1200" height="300" rx="26"/></clipPath>
+  </defs>
+  <g clip-path="url(#r)">
+    <rect width="1200" height="300" fill="#131A3A"/>
+    <!-- patchwork strip on the right -->
+    <rect x="860" y="0" width="170" height="150" fill="#F4A6C6"/>
+    <rect x="1030" y="0" width="170" height="150" fill="#F6C945"/>
+    <rect x="860" y="150" width="170" height="150" fill="url(#checks)"/>
+    <rect x="1030" y="150" width="170" height="150" fill="#C7CAD6"/>
+    <rect x="760" y="0" width="100" height="300" fill="#0D1330"/>
+    <rect x="760" y="0" width="100" height="300" fill="url(#dots)"/>
+    <rect class="stitch" x="870" y="10" width="150" height="130" rx="10" stroke="#131A3A"/>
+    <rect class="stitch" x="1040" y="10" width="150" height="130" rx="10" stroke="#131A3A"/>
+    <rect class="stitch" x="870" y="160" width="150" height="130" rx="10" stroke="#E2558F"/>
+    <rect class="stitch" x="1040" y="160" width="150" height="130" rx="10" stroke="#131A3A"/>
+    <rect class="stitch" x="770" y="10" width="80" height="280" rx="10" stroke="#F6C945"/>
+    <path class="twinkle" d="M1112 40l6 16 17 1-13 10 5 17-15-9-15 9 5-17-13-10 17-1z" fill="#131A3A"/>
+    <!-- text -->
+    <text class="t" x="60" y="92" font-size="30" fill="#F6C945" font-style="italic">Bonjour, je suis</text>
+    <text class="t" x="56" y="168" font-size="74" font-weight="800" fill="#FFFFFF" letter-spacing="-1.5">Goyéli Rose Tuo</text>
+    <text class="t" x="60" y="218" font-size="24" fill="#F4A6C6" font-weight="600">Développeuse d'applications web &amp; mobile</text>
+    <text class="t" x="60" y="256" font-size="19" fill="#C7CAD6">Licence 3 à l'ESATIC · Abidjan, Côte d'Ivoire</text>
+  </g>
+</svg>
