@@ -41,6 +41,7 @@ Je suis passionnée par la résolution des problèmes sociaux : je crois que la 
 | **X-Market** | Suivre l'urbanisation et organiser les commerces au bord des routes | Mobile |
 | **Gestion de restaurant** | Un SaaS pour gérer un restaurant, en ligne | Django, PythonAnywhere |
 | **Système d'information d'usine** | Gestion d'usine, en sprints Scrum | Django, YouTrack |
+| [**Apotheosis ACE**](https://github.com/rtuo1978-a11y/acevent) | Organiser le banquet d'une église : tables, menu, choix des plats | Django, React, Django REST |
 
 ### Ma boîte à outils
 
